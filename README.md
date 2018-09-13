@@ -3,7 +3,7 @@
 With this script, can be make testing  the download and access a diferents websites, for testing the filters UTM or firewall.
 
 
-## Requerimenst.
+## Requeriments.
 ```
 pip install lib_sysblack
 pip install unipath
@@ -15,7 +15,7 @@ python -m unittest discover -v
 ```
 
 ## Download Binario for windows
-[https://github.com/sistemasnegros/pydownloader/blob/master/dist/pydownloader.exe](https://github.com/sistemasnegros/pydownloader/raw/master/dist/pydownloader.exe)
+[https://github.com/sistemasnegros/pydownloader/blob/master/src/dist/pydownloader.exe](https://github.com/sistemasnegros/pydownloader/raw/master/src/dist/pydownloader.exe)
 
 ## add data file csv: pydownloader.csv
 ```
